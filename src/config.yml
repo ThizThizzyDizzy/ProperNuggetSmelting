@@ -1,5 +1,7 @@
 # Proper Nugget Smelting by ThizThizzyDizzy
-# Version 1.0
+# Version 1.1.0
 
-# How much iron should chainmail return when smelted? (1 = same as iron armor)
+# Use these multipliers to control how many nuggets each material will return.
 chainmail-multiplier: 0.5
+iron-multiplier: 1
+gold-multiplier: 1
